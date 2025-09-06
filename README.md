@@ -28,7 +28,7 @@
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/samuel-oglekwu/)
-- [Personal Portfolio](https://my-portfolio-ten-phi-s253kjn35u.vercel.app/)
+- [Personal Portfolio](https://my-portfolio-oyca.vercel.app/)
 
 ---
 
