@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Samuel Oglekwu  
 
-<!--
-**Itsam93/Itsam93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Motivated and detail-oriented Frontend Developer** I love building clean, user-friendly interfaces and am passionate about creating seamless user experiences. My goal is to contribute to innovative development teams where I can blend my analytical and technical skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+- JavaScript (JS)
+- React
+- Node.js
+- HTML, CSS
+- Responsive Web Design
+
+---
+
+## 💡 About Me
+- Passionate about building beautiful, functional web applications
+- Always learning new things in tech and design
+
+---
+
+## 🌟 Featured Project
+
+- [school-app](https://github.com/Itsam93/school-app): My flagship project, bringing together all my favorite technology-skills!
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/samuel-oglekwu/)
+- [Personal Portfolio](https://my-portfolio-ten-phi-s253kjn35u.vercel.app/)
+
+---
+
+Feel free to reach out if you’d like to connect or collaborate!
